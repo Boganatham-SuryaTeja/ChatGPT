@@ -7,7 +7,7 @@ import nouserlogo from '@/assets/nouserlogo.png'
 import Image from 'next/image'
 // import schoolbg from '@/assets/schoolBG.jpg'
 import { HashLoader } from 'react-spinners';
-const API_KEY = process.env.NEXT_PUBLIC_GEMINI_API
+const API_KEY = "AIzaSyCoep6umawHtTD3-A9L27GdgNKnKpq-5T8"
 // console.log(API_KEY)
 const RightSection = () => {
     const trainingPrompt = [
